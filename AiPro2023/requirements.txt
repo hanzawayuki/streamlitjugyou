@@ -1,0 +1,9 @@
+streamlit
+numpy
+pandas
+scikit-learn == 1.2.2
+matplotlib
+japanize-matplotlib
+seaborn
+imblearn
+altair<5
